@@ -2,13 +2,13 @@
 	(
 		(
 			(
-				Bacteria_symilae:0.4,
-				Bacteria_subameungue:0.3
+				Bacteria_symilae:0.04,
+				Bacteria_subameungue:0.03
 			)
 			:0.1,
 			(
-				Bacteria_sepicoelorABA:0.1,
-				Bacteria_forerculiABB:0.1
+				Bacteria_sepicoelorABA:0.01,
+				Bacteria_forerculiABB:0.03
 			)
 			:0.05
 		)
@@ -30,15 +30,6 @@
 	Bacteria:1.5,
 	(
 		(
-			Eukaryota_subclade:0.06455,
-			Leishmania_major:0.09
-		)
-		:0.1,
-		Giardia_lamblia:0.7
-	)
-	Eukaryota:0.8,
-	(
-		(
 			Nanoarchaeum_equitans:0.2,
 			Thermoprotei:0.1
 		)
@@ -48,7 +39,7 @@
 				Thermoplasma_volcanium:0.1,
 				Thermoplasma_acidotuphilum:0.01,
 				Thermoplasma_agachetae:0.03,
-				Thermoplasma_ketelafongus:0.5
+				Thermoplasma_ketelafongus:0.3
 			)
 			:0.5,
 			Euryarchaeota_subculae:0.3
@@ -57,10 +48,19 @@
 	)
 	Archaea:0.7,
 	(
-		Mariposa:0.9,
-		Escarabajo:1.1
+		(
+			Eukaryota_subclade:0.04,
+			Leishmania_major:0.09
+		)
+		:0.1,
+		Giardia_lamblia:0.4
+	)
+	Eukaryota:0.8,
+	(
+		Mariposa:0.5,
+		Escarabajo:0.2
 	)
 	Otros_bichos:1.3,
-	Bicho_raro:1.3
+	Bicho_raro:1.9
 )
 ;
