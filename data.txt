@@ -56,6 +56,6 @@
 		:0.6
 	)
 	Archaea:0.7,
-	Bicho_raro:0.3
+	Bicho_raro:1.3
 )
 ;
