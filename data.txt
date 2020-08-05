@@ -4,56 +4,52 @@
 			(
 				Bacteria_symilae:0.04,
 				Bacteria_subameungue:0.03
-			)
-			:0.1,
+			):0.1,
 			(
-				Bacteria_sepicoelorABA:0.01,
-				Bacteria_forerculiABB:0.03
-			)
-			:0.05
-		)
-		:0.2,
+				Bacteria_sepicoelor:0.01,
+				Bacteria_forerculi:0.03
+			):0.05
+		):0.2,
 		(
 			(
 				Thermoanaerobacter:0.4,
 				Clostridium:0.3
-			)
-			:0.05,
+			):0.7,
 			(
-				Mollicutes:0.2,
+				(
+					(
+						Thermoanal:0.06,
+						Shumamel ayampa:0.12,
+						Mollicutes:0.1,
+					):0.15
+				):0.2,
 				Bacilli:0.1
-			)
-			:0.02
-		)
-		:0.1
+			):0.4
+		):0.9
 	)
 	Bacteria:1.5,
 	(
 		(
 			Nanoarchaeum_equitans:0.2,
 			Thermoprotei:0.1
-		)
-		:0.5,
+		):0.5,
 		(
 			(
 				Thermoplasma_volcanium:0.1,
 				Thermoplasma_acidotuphilum:0.01,
 				Thermoplasma_agachetae:0.03,
 				Thermoplasma_ketelafongus:0.3
-			)
-			:0.5,
+			):0.5,
 			Euryarchaeota_subculae:0.3
-		)
-		:0.6
+		):0.6
 	)
 	Archaea:0.7,
 	(
 		(
 			Eukaryota_subclade:0.04,
 			Leishmania_major:0.09
-		)
-		:0.1,
-		Giardia_lamblia:0.4
+		):0.1,
+		Giradiai_lamblida:0.4
 	)
 	Eukaryota:0.8,
 	(
