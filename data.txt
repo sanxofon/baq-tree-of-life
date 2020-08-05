@@ -35,28 +35,28 @@
 		):0.5,
 		(
 			(
-				Thermoplasma_volcanium:0.1,
-				Thermoplasma_acidotuphilum:0.01,
-				Thermoplasma_agachetae:0.03,
-				Thermoplasma_ketelafongus:0.3
+				Thermoplasma:0.1,
+				Thermo__acidotuphilum:0.01,
+				Thermo_agachetae:0.03,
+				Thermo_ketelafongus:0.3
 			):0.5,
-			Euryarchaeota_subculae:0.3
+			Euryarchaeota_subcluae:0.3
 		):0.6
 	)
 	Archaea:0.7,
 	(
 		(
-			Eukaryota_subclade:0.04,
+			Eukaryota_subcluae:0.04,
 			Leishmania_major:0.09
 		):0.1,
-		Giradiai_lamblida:0.4
+		Giradai_lamibda:0.4
 	)
 	Eukaryota:0.8,
 	(
-		Mariposa:0.5,
-		Escarabajo:0.2
+		Maripa_argelis:0.5,
+		Loretis_bravis:0.2
 	)
-	Otros_bichos:1.3,
-	Bicho_raro:1.9
+	Filo_aicos:1.3,
+	Antriae_fungi:1.9
 )
 ;
