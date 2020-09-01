@@ -98,40 +98,40 @@
       Mesas_Redondas:0.95,
       Galería_Académica:0-90
     )
-    EJE_ACADÉMICO#//https://www.baq-cae.ec/academico:1.60,
+    EJE_ACADÉMICO/www.baq-cae.ec/academico:1.60,
     (
-      Premios#//https://www.baq-cae.ec/concurso:1.10,
+      Premios/www.baq-cae.ec/concurso:1.10,
       (
-        Premio_Panamericano#//https://www.baq-cae.ec/concurso:0.75,
-        Premio_Mundial#//https://www.baq-cae.ec/concurso:0.70,
-        Medalla_de_Oro#//https://www.baq-cae.ec/concurso:0.65
+        Premio_Panamericano/www.baq-cae.ec/concurso:0.75,
+        Premio_Mundial/www.baq-cae.ec/concurso:0.70,
+        Medalla_de_Oro/www.baq-cae.ec/concurso:0.65
       )
-      Premio_Nacional#//https://www.baq-cae.ec/concurso:0.80,
+      Premio_Nacional/www.baq-cae.ec/concurso:0.80,
       (
         Exposición_Concurso_BAQ:1.00,
         Exposición_Medalla_de_Oro:0.98
       )
       Jurados:1.05
     )
-    EJE_CONCURSO#//https://www.baq-cae.ec/concurso:1.50,
+    EJE_CONCURSO/www.baq-cae.ec/concurso:1.50,
     (
-      Arquitectura_Abierta#//https://www.baq-cae.ec/mio20-arquitectura-abierta:0.94,
-      Galería_Digital#//https://www.baq-cae.ec/galeria-digital-exposiciones-digitales-arquitectura-y-ciudad:0.90,
+      Arquitectura_Abierta/www.baq-cae.ec/mio20-arquitectura-abierta:0.94,
+      Galería_Digital/www.baq-cae.ec/galeria-digital-exposiciones-digitales-arquitectura-y-ciudad:0.90,
       Vinculación_con_la_comunidad:1.07,
       Poster_bienal:1.0
     )
-    EJE_CULTURAL#//https://www.baq-cae.ec/cultural:1.40,
+    EJE_CULTURAL/www.baq-cae.ec/cultural:1.40,
     (
-      Comisión#//https://www.baq-cae.ec/comision/:0.80,
-      Aliados#//https://www.baq-cae.ec/aliados/:0.70,
-      Colegio_de_Arquitectos_del_Ecuador_-_Pichincha#//https://www.cae.org.ec:0.60,
-      Historia_de_la_BAQ#//https://www.baq-cae.ec/historia:0.90
+      Comisión/www.baq-cae.ec/comision/:0.80,
+      Aliados/www.baq-cae.ec/aliados/:0.70,
+      Colegio_de_Arquitectos_del_Ecuador_-_Pichincha/www.cae.org.ec:0.60,
+      Historia_de_la_BAQ/www.baq-cae.ec/historia:0.90
     )
-    AGENDA#//https://www.baq-cae.ec/agenda:1.07,
+    AGENDA/www.baq-cae.ec/agenda:1.07,
     ACERCA_DE_LA_BAQ:1.30,
     INSCRIPCIONES:1.04,
     ARCHIVO_BAQ#//http://www.arquitecturapanamericana.com/:1.01,
-    NOTICIAS#//https://www.baq-cae.ec/prensa_noticias/:0.97,
+    NOTICIAS/www.baq-cae.ec/prensa_noticias/:0.97,
     CRÉDITOS:0.94,
     Eventos_Protocolarios:0.90,
     (
