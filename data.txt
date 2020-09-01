@@ -98,7 +98,7 @@
       Mesas_Redondas//:0.95,
       Galería_Académica//:0-90
     )
-    EJE_ACADÉMICO#//https://www.baq-cae.ec/académico:1.60,
+    EJE_ACADÉMICO#//https://www.baq-cae.ec/academico:1.60,
     (
       Premios#//https://www.baq-cae.ec/concurso:1.10,
       (
