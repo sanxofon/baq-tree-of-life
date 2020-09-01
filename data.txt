@@ -113,7 +113,7 @@
       )
       Jurados:1.05
     )
-    EJE_CONCURSO1.50,
+    EJE_CONCURSO:1.50,
     (
       Arquitectura_Abierta#//www.baq-cae.ec/mio20-arquitectura-abierta:0.94,
       Galería_Digital#//www.baq-cae.ec/galeria-digital-exposiciones-digitales-arquitectura-y-ciudad:0.90,
