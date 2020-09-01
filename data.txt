@@ -98,7 +98,7 @@
       Mesas_Redondas:0.95,
       Galería_Académica:0-90
     )
-    EJE_ACADÉMICO#//www.baq-cae.ec/academico:1.60,
+    EJE_ACADÉMICO:1.60,
     (
       Premios#//www.baq-cae.ec/concurso:1.10,
       (
@@ -113,25 +113,25 @@
       )
       Jurados:1.05
     )
-    EJE_CONCURSO#//www.baq-cae.ec/concurso:1.50,
+    EJE_CONCURSO1.50,
     (
       Arquitectura_Abierta#//www.baq-cae.ec/mio20-arquitectura-abierta:0.94,
       Galería_Digital#//www.baq-cae.ec/galeria-digital-exposiciones-digitales-arquitectura-y-ciudad:0.90,
       Vinculación_con_la_comunidad:1.07,
       Poster_bienal:1.0
     )
-    EJE_CULTURAL#//www.baq-cae.ec/cultural:1.40,
+    EJE_CULTURAL:1.40,
     (
       Comisión#//www.baq-cae.ec/comision/:0.80,
       Aliados#//www.baq-cae.ec/aliados/:0.70,
       Colegio_de_Arquitectos_del_Ecuador_-_Pichincha#//www.cae.org.ec:0.60,
       Historia_de_la_BAQ#//www.baq-cae.ec/historia:0.90
     )
-    AGENDA#//www.baq-cae.ec/agenda:1.07,
+    AGENDA:1.07,
     ACERCA_DE_LA_BAQ:1.30,
     INSCRIPCIONES:1.04,
-    ARCHIVO_BAQ#//www.arquitecturapanamericana.com/:1.01,
-    NOTICIAS#//www.baq-cae.ec/prensa_noticias/:0.97,
+    ARCHIVO_BAQ:1.01,
+    NOTICIAS:0.97,
     CRÉDITOS:0.94,
     Eventos_Protocolarios:0.90,
     (
