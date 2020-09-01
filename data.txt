@@ -2,13 +2,6 @@
   (
     (
       (
-        Momoyo_Kaijima:0.80,
-        Antonio_Cruz:0.75,
-        Marta_Moreira:0.70,
-        Daniel_Bermúdez:0.65
-      )
-      Charlas_Magistrales:1.20,
-      (
         (
           (
             House_&_Atelier_Bow_-_Wow:0.40
@@ -83,51 +76,8 @@
         )
         Sur_América:0.40
       )
-      Conversatorios:1.10,
-      (
-        Entrevista_01:0.80,
-        Entrevista_02:0.75,
-        Entrevista_03:0.70,
-        Entrevista_04:0.65
-      )
-      Entrevistas:1.00,
-      (
-        Mesa_Redonda_01:0.80,
-        Mesa_Redonda_02:0.60
-      )
-      Mesas_Redondas:0.95,
-      Galería_Académica:0-90
+      Conversatorios:1.10
     )
-    EJE_ACADÉMICO#//www.baq-cae.ec/academico:1.60,
-    (
-      Premios#//www.baq-cae.ec/concurso:1.10,
-      (
-        Premio_Panamericano#//www.baq-cae.ec/concurso:0.75,
-        Premio_Mundial#//www.baq-cae.ec/concurso:0.70,
-        Medalla_de_Oro#//www.baq-cae.ec/concurso:0.65
-      )
-      Premio_Nacional#//www.baq-cae.ec/concurso:0.80,
-      (
-        Exposición_Concurso_BAQ:1.00,
-        Exposición_Medalla_de_Oro:0.98
-      )
-      Jurados:1.05
-    )
-    EJE_CONCURSO#//www.baq-cae.ec/concurso:1.50,
-    (
-      Arquitectura_Abierta#//www.baq-cae.ec/mio20-arquitectura-abierta:0.94,
-      Galería_Digital#//www.baq-cae.ec/galeria-digital-exposiciones-digitales-arquitectura-y-ciudad:0.90,
-      Vinculación_con_la_comunidad:1.07,
-      Poster_bienal:1.0
-    )
-    EJE_CULTURAL#//www.baq-cae.ec/cultural:1.40,
-    (
-      Comisión#//www.baq-cae.ec/comision/:0.80,
-      Aliados#//www.baq-cae.ec/aliados/:0.70,
-      Colegio_de_Arquitectos_del_Ecuador_-_Pichincha#//www.cae.org.ec:0.60,
-      Historia_de_la_BAQ#//www.baq-cae.ec/historia:0.90
-    )
-    AGENDA#//www.baq-cae.ec/agenda:1.07,
     ACERCA_DE_LA_BAQ:1.30,
     INSCRIPCIONES:1.04,
     ARCHIVO_BAQ#//www.arquitecturapanamericana.com/:1.01,
