@@ -65,7 +65,7 @@
           Chile:0.60,
           (
             Blibioteca_el_Tintal:0.26,
-            Escuela_de_Arquitectura_Universidad_de_los_Andes:0.24,
+            Escuela_de_Arquitectura_UNIANDES:0.24,
             Pasaje_La_Cruces:0.22
           )
           Colombia:0.60,
@@ -85,15 +85,15 @@
       )
       Conversatorios:1.10,
       (
-        Entrevista_01:0.80,
-        Entrevista_02:0.75,
-        Entrevista_03:0.70,
-        Entrevista_04:0.65
+        Entrevista_Miradas_críticas_1:0.80,
+        Entrevista_Miradas_críticas_2:0.75,
+        Entrevista_Miradas_críticas_3:0.70,
+        Entrevista_Miradas_críticas_4:0.65
       )
       Entrevistas:1.00,
       (
-        Mesa_Redonda_01:0.80,
-        Mesa_Redonda_02:0.60
+        Educación,_arquitectura_y_practicas_creativas:0.80
+        Condiciones_socio_espaciales_y_pandemia:0.60
       )
       Mesas_Redondas:0.95,
       Galería_Académica:0-90
